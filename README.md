@@ -211,4 +211,4 @@ Every serious ethdev should clone and skim through this codebase at least once.
 
 Good luck!
 
-- flex
+\- flex
